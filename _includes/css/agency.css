@@ -374,7 +374,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba(167, 255, 185, 0.9); /* Fallback when no plugin support */
     background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
 }
 
@@ -495,7 +495,6 @@ section h3.section-subheading {
     height: 80px;
     margin-left: 0;
     border: 7px solid #f1f1f1;
-    border-radius: 100%;
     text-align: center;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
