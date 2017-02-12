@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: 'Inconsolata, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Playfair Display",serif'
+  primary: '"Open Sans", Inconsolata, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: 'Merriweather,"Playfair Display",serif'
