@@ -2,23 +2,22 @@ url: https://florianstrob.github.io
 
 # Site settings
 title: Florian Strob
-email: your-email@domain.com
+email: hello@florianstrob.com
 description: "Portfolio"
 
 
 # Team names, titles and social links
-people:
-- name: Florian Strob
-  pic: 1
-  position: Architecture & Literature
-  social:
-    - title: linkedin
-      url: #
+# people:
+# - name: Florian Strob
+#   pic: 1
+#   position: Architecture & Literature
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/florian-strob/
+  - title: twitter
+    url: https://twitter.com/florian_strob
 
 # Build settings
 markdown: kramdown
