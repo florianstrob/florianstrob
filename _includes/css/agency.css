@@ -441,6 +441,7 @@ section h3.section-subheading {
     position: relative;
     padding: 0;
     list-style: none;
+    font-family: {{ site.data.template.font.secondary }};
 }
 
 .timeline:before {
