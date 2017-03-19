@@ -1,11 +1,11 @@
 ---
 title: Fragment und Individuum
-subtitle: Germanisch-Romanische Monatsschrift
+subtitle: Essay
 layout: default
 modal-id: 2
-date: 2017-03-01
-img: publications/IMG_8136.jpg
-thumbnail: publications/IMG_8136.jpg
+date: 2017-03-10
+img: publications/IMG_8235.jpg
+thumbnail: publications/IMG_8235.jpg
 alt: image-alt
 project-date: 2014
 site-section: publications

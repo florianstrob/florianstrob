@@ -1,9 +1,9 @@
 ---
-title: Schreiben und Lesen im Zeichen des Todes
-subtitle: Literary Studies
+title: Schreiben und Lesen<br>im Zeichen des Todes
+subtitle: Monograph
 layout: default
 modal-id: 1
-date: 2017-03-01
+date: 2017-03-19
 img: publications/IMG_7858.jpg
 thumbnail: publications/IMG_7858.jpg
 alt: image-alt
