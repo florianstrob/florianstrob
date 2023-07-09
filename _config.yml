@@ -16,8 +16,6 @@ description: "Portfolio"
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/florian-strob/
-  - title: twitter
-    url: https://twitter.com/florian_strob
   - title: envelope-o
     url: mailto:hello@florianstrob.com
 # Build settings
